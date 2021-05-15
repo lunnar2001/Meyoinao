@@ -61,12 +61,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hikarj2001"
+    "url": "git+https://github.com/lunnar2001"
   },
   "author": "Vjetcong",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hikarj2001/issues"
+    "url": "https://github.com/lunnar2001/issues"
   },
-  "homepage": "https://github.com/hikarj2001"
+  "homepage": "https://github.com/lunnar2001"
 }
